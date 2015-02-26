@@ -1,4 +1,4 @@
-# SansBullshitSans
+# Sans Bullshit Sans
 
 Source for the Sans Bullshit Sans font. [Read about how this font was made](http://pixelambacht.nl/2015/sans-bullshit-sans/) or visit the [site](http://www.sansbullshitsans.com/) to see it in action.
 

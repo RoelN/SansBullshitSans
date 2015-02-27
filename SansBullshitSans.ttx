@@ -24145,7 +24145,7 @@
             </LigatureSet>
 
             <LigatureSet glyph="c">
-
+              <Ligature components="l,o,u,d" glyph="uniE601"/>
               <Ligature components="u,r,a,t,e" glyph="uniE601"/>
               <Ligature components="o,d,i,f,y" glyph="uniE601"/>
               <Ligature components="r,o,w,d,f,u,n,d" glyph="uniE601"/>

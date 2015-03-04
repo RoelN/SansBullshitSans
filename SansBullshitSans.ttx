@@ -24368,7 +24368,7 @@
               <Ligature components="u,s,h,space,t,h,e,space,e,n,v,e,l,o,p,e" glyph="uniE600"/>
               <Ligature components="e,e,l,i,n,g,space,t,h,e,space,o,n,i,o,n" glyph="uniE600"/>
               <Ligature components="a,t,e,n,t,space,p,e,n,d,i,n,g,space,d,e,s,i,g,n" glyph="uniE600"/>
-              <Ligature components="e,r,s,o,a,l,space,b,r,a,n,d" glyph="uniE600"/>
+              <Ligature components="e,r,s,o,n,a,l,space,b,r,a,n,d" glyph="uniE600"/>
 
             </LigatureSet>
 

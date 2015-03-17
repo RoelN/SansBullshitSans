@@ -6,7 +6,7 @@ This font is based on [Droid Sans](http://www.fontsquirrel.com/fonts/droid-sans)
 
 ## Stuff using this font:
 
-[A bookmarklet by Lachezar Yankov](http://dailyffs.com/sansbullshitsans/)
-[Let me Sans Bullshit Sans that for you](http://lmsbstfy.herokuapp.com/)
-[BullSh!t Chrome extension](https://chrome.google.com/webstore/detail/bullsht/gnhiijlfmlhndfhmkeagmalmpmjjpceh)
-[SansBullshitSans Button Chrome extension](https://chrome.google.com/webstore/detail/sansbullshitsans-button/bpbliabakhdhdfbmdchkfinepomhnmbl)
+- [A bookmarklet by Lachezar Yankov](http://dailyffs.com/sansbullshitsans/)
+- [Let me Sans Bullshit Sans that for you](http://lmsbstfy.herokuapp.com/)
+- [BullSh!t Chrome extension](https://chrome.google.com/webstore/detail/bullsht/gnhiijlfmlhndfhmkeagmalmpmjjpceh)
+- [SansBullshitSans Button Chrome extension](https://chrome.google.com/webstore/detail/sansbullshitsans-button/bpbliabakhdhdfbmdchkfinepomhnmbl)

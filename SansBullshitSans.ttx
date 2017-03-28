@@ -24103,10 +24103,45 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
+            <LigatureSet glyph="B">
+
+              <Ligature components="e,t,a" glyph="uniE602"/>
+              <Ligature components="i,g,space,d,a,t,a" glyph="uniE601"/>
+              <Ligature components="i,g,space,D,a,t,a" glyph="uniE601"/>
+
+            </LigatureSet>
+
+            <LigatureSet glyph="C">
+
+              <Ligature components="l,o,u,d" glyph="uniE601"/>
+              <Ligature components="r,o,w,d,f,u,n,d" glyph="uniE601"/>
+              <Ligature components="r,o,w,d,s,o,u,r,c,e" glyph="uniE601"/>
+              <Ligature components="r,o,w,d,s,o,u,r,c,i,n,g" glyph="uniE601"/>
+              <Ligature components="o,n,v,e,r,g,e,n,c,e" glyph="uniE601"/>
+              <Ligature components="o,l,l,a,b,o,r,a,t,i,o,n" glyph="uniE600"/>
+              <Ligature components="y,b,e,r" glyph="uniE601"/>
+              <Ligature components="o,m,p,e,t,i,t,i,v,e,space,a,d,v,a,n,t,a,g,e" glyph="uniE600"/>
+
+            </LigatureSet>
+
             <LigatureSet glyph="D">
 
               <Ligature components="R,M" glyph="uniE602"/>
               <Ligature components="N,A" glyph="uniE602"/>
+              <Ligature components="e,v,o,p,s" glyph="uniE601"/>
+              <Ligature components="e,v,O,p,s" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,M,i,n,i,n,g" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,m,i,n,i,n,g" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,s,c,i,e,n,c,e" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,S,c,i,e,n,c,e" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,s,c,i,e,n,t,i,s,t" glyph="uniE601"/>
+
+            </LigatureSet>
+
+            <LigatureSet glyph="H">
+
+              <Ligature components="T,M,L,five" glyph="uniE602"/>
+              <Ligature components="a,c,k,a,t,h,o,n" glyph="uniE601"/>
 
             </LigatureSet>
 
@@ -24162,6 +24197,7 @@
               <Ligature components="r,e,d,i,b,i,l,i,t,y" glyph="uniE601"/>
               <Ligature components="o,o,p,e,t,i,t,i,o,n" glyph="uniE601"/>
               <Ligature components="r,o,w,d,s,o,u,r,c,e" glyph="uniE601"/>
+              <Ligature components="r,o,w,d,s,o,u,r,c,i,n,g" glyph="uniE601"/>
               <Ligature components="o,n,v,e,r,g,e,n,c,e" glyph="uniE601"/>
               <Ligature components="r,e,a,t,e,space,v,a,l,u,e" glyph="uniE600"/>
               <Ligature components="h,a,n,g,e,space,a,g,e,n,t" glyph="uniE600"/>
@@ -24172,6 +24208,7 @@
               <Ligature components="r,o,s,s,space,t,h,e,space,c,h,a,s,m" glyph="uniE600"/>
               <Ligature components="o,n,t,e,n,t,space,s,t,r,a,t,e,g,y" glyph="uniE600"/>
               <Ligature components="y,b,e,r" glyph="uniE601"/>
+              <Ligature components="o,m,p,e,t,i,t,i,v,e,space,a,d,v,a,n,t,a,g,e" glyph="uniE600"/>
 
             </LigatureSet>
 
@@ -24190,6 +24227,7 @@
               <Ligature components="o,i,l,space,t,h,e,space,o,c,e,a,n" glyph="uniE600"/>
               <Ligature components="e,l,o,w,space,t,h,e,space,f,o,l,d" glyph="uniE600"/>
               <Ligature components="r,a,n,d,space,e,v,a,n,g,e,l,i,s,t" glyph="uniE600"/>
+              <Ligature components="u,s,i,n,e,s,s,space,m,o,d,e,l" glyph="uniE600"/>
               <Ligature components="r,i,c,k,s,space,a,n,d,space,c,l,i,c,k,s" glyph="uniE600"/>
               <Ligature components="r,i,n,g,space,t,o,space,t,h,e,space,p,a,r,t,y" glyph="uniE600"/>
               <Ligature components="r,i,n,g,space,t,o,space,t,h,e,space,t,a,b,l,e" glyph="uniE600"/>
@@ -24208,6 +24246,8 @@
               <Ligature components="n,g,a,g,e,m,e,n,t" glyph="uniE601"/>
               <Ligature components="n,t,e,r,p,r,i,s,e" glyph="uniE601"/>
               <Ligature components="v,a,n,g,e,l,i,s,t" glyph="uniE601"/>
+              <Ligature components="s,c,a,l,a,t,i,n,g" glyph="uniE601"/>
+              <Ligature components="l,i,t,e,space,f,e,w" glyph="uniE601"/>
               <Ligature components="x,i,t,space,s,t,r,a,t,e,g,y" glyph="uniE600"/>
               <Ligature components="a,t,space,y,o,u,r,space,o,w,n,space,d,o,g,space,f,o,o,d" glyph="uniE600"/>
 
@@ -24218,9 +24258,14 @@
               <Ligature components="i,v,e,r,s,i,t,y" glyph="uniE601"/>
               <Ligature components="i,s,c,o,v,e,r,y" glyph="uniE601"/>
               <Ligature components="e,e,p,space,d,i,v,e" glyph="uniE601"/>
+              <Ligature components="e,e,p,space,l,e,a,r,n,i,n,g" glyph="uniE601"/>
               <Ligature components="i,s,r,u,p,t,i,v,e" glyph="uniE601"/>
               <Ligature components="o,w,n,s,i,z,i,n,g" glyph="uniE601"/>
+              <Ligature components="a,t,a,-,d,r,i,v,e,n" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,l,a,k,e" glyph="uniE601"/>
               <Ligature components="a,t,a,space,m,i,n,i,n,g" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,s,c,i,e,n,c,e" glyph="uniE601"/>
+              <Ligature components="a,t,a,space,s,c,i,e,n,t,i,s,t" glyph="uniE601"/>
               <Ligature components="i,g,i,t,a,l,space,d,i,v,i,d,e" glyph="uniE600"/>
               <Ligature components="e,s,i,g,n,space,p,a,t,t,e,r,n" glyph="uniE600"/>
               <Ligature components="i,g,i,t,a,l,space,n,a,t,i,v,e,s" glyph="uniE600"/>
@@ -24236,6 +24281,7 @@
               <Ligature components="a,m,e,i,f,y" glyph="uniE601"/>
               <Ligature components="r,o,u,p,t,h,i,n,k" glyph="uniE601"/>
               <Ligature components="r,o,w,t,h,space,h,a,c,k" glyph="uniE601"/>
+              <Ligature components="o,v,e,r,n,a,n,c,e" glyph="uniE601"/>
               <Ligature components="a,m,i,f,i,c,a,t,i,o,n" glyph="uniE600"/>
               <Ligature components="a,m,e,space,c,h,a,n,g,e,r" glyph="uniE600"/>
               <Ligature components="l,o,b,a,l,i,z,a,t,i,o,n" glyph="uniE600"/>
@@ -24282,6 +24328,7 @@
               <Ligature components="t,m,l,five" glyph="uniE602"/>
               <Ligature components="o,m,e,r,u,n" glyph="uniE601"/>
               <Ligature components="o,l,i,s,t,i,c" glyph="uniE601"/>
+              <Ligature components="a,c,k,a,t,h,o,n" glyph="uniE601"/>
               <Ligature components="e,a,d,l,i,g,h,t,s" glyph="uniE601"/>
               <Ligature components="e,a,d,s,space,d,o,w,n" glyph="uniE601"/>
               <Ligature components="i,g,h,space,l,e,v,e,l" glyph="uniE601"/>
@@ -24293,6 +24340,7 @@
             <LigatureSet glyph="k">
 
               <Ligature components="n,e,e,space,d,e,e,p" glyph="uniE601"/>
+              <Ligature components="e,y,space,c,h,a,l,l,e,n,g,e" glyph="uniE601"/>
 
             </LigatureSet>
 
@@ -24336,6 +24384,7 @@
               <Ligature components="p,t,i,m,i,z,e" glyph="uniE601"/>
               <Ligature components="f,f,s,h,o,r,i,n,g" glyph="uniE601"/>
               <Ligature components="p,p,o,r,t,u,n,i,t,y" glyph="uniE601"/>
+              <Ligature components="p,p,o,r,t,u,n,i,t,i,e,s" glyph="uniE601"/>
               <Ligature components="u,t,s,o,u,r,c,i,n,g" glyph="uniE601"/>
               <Ligature components="v,e,r,space,t,h,e,space,t,o,p" glyph="uniE600"/>
               <Ligature components="u,t,space,o,f,space,p,o,c,k,e,t" glyph="uniE600"/>
@@ -24353,6 +24402,9 @@
               <Ligature components="e,x,t,space,l,e,v,e,l" glyph="uniE601"/>
               <Ligature components="e,t,i,q,u,e,t,t,e" glyph="uniE601"/>
               <Ligature components="e,x,t,i,f,y" glyph="uniE601"/>
+              <Ligature components="e,w,space,o,i,l" glyph="uniE601"/>
+              <Ligature components="e,w,space,r,o,l,e" glyph="uniE601"/>
+              <Ligature components="e,w,space,g,e,n,e,r,a,t,i,o,n" glyph="uniE600"/>
 
             </LigatureSet>
 
@@ -24423,6 +24475,7 @@
               <Ligature components="o,c,k,s,t,a,r" glyph="uniE601"/>
               <Ligature components="e,a,c,h,space,o,u,t" glyph="uniE601"/>
               <Ligature components="e,a,l,space,t,i,m,e" glyph="uniE601"/>
+              <Ligature components="e,a,l,m,space,o,f" glyph="uniE601"/>
               <Ligature components="e,s,p,o,n,s,i,v,e" glyph="uniE601"/>
               <Ligature components="i,g,h,t,s,i,z,i,n,g" glyph="uniE601"/>
               <Ligature components="e,i,m,a,g,i,n,i,n,g" glyph="uniE601"/>
